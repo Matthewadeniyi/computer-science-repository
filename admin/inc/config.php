@@ -1,7 +1,7 @@
 <?php
     //contains some pre-defined functions
     include_once('function.php');
-    
+    //errros
     $dbuser="root";
     $dbpass="";
     $host="localhost";
